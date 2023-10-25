@@ -5,12 +5,14 @@
 <img align='right' src='https://raw.githubusercontent.com/vbullsey/froman/main/public/avatar.png?token=GHSAT0AAAAAACHKNTMWHWOO6XSUAZ5UQLMMZJYL4VA' width='25%'>  
 
 {  
+
 * 👂 `My name is`: **Felipe**,
 * 👩 `Pronouns`: **He**,
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Godot**,
 * ❤️ `I love`: **ProgrammingPlay videogames**  ,
-* 💻 `Favorite lang`: **Python & TypeScript**  
+* 💻 `Favorite lang`: **Python & TypeScript**
+  
 }
 
 <br/>
