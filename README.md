@@ -2,7 +2,7 @@
 
 <hr/>
 
-<img align='right' src='https://raw.githubusercontent.com/vbullsey/froman/main/public/avatar.png?token=GHSAT0AAAAAACHKNTMWHWOO6XSUAZ5UQLMMZJYL4VA' width='25%'>  
+<img align='right' src='https://raw.githubusercontent.com/vbullsey/froman/main/public/avatar.png?token=GHSAT0AAAAAACHKNTMWHWOO6XSUAZ5UQLMMZJYL4VA' width='10%'>  
 
 {  
 
