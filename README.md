@@ -10,7 +10,7 @@
 * 👩 `Pronouns`: **He**,
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Godot**,
-* ❤️ `I love`: **ProgrammingPlay videogames**  ,
+* ❤️ `I love`: **Programming & Play videogames**  ,
 * 💻 `Favorite lang`: **Python & TypeScript**  
 
 }
