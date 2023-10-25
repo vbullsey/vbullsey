@@ -64,7 +64,7 @@
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white"></a>
-<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black&logo=socket.io&badgeColor=010101"></a>
+<a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101"></a>
 <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
 </p>
