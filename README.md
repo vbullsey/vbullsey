@@ -2,12 +2,12 @@
 
 <hr/>
 
-<img align='right' src='https://raw.githubusercontent.com/vbullsey/froman/main/public/avatar.png' width='10%'>  
+<img align='right' src='https://raw.githubusercontent.com/vbullsey/froman/main/public/avatar.png' width='15%'>  
 
 {  
 
 * 👂 `My name is`: **Felipe**,
-* 👩 `Pronouns`: **He**,
+* 🧔‍♂️ `Pronouns`: **He**,
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Godot**,
 * ❤️ `I love`: **Programming & Play videogames**  ,
@@ -21,7 +21,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=vbullsey&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbullsey&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=tex,css,handlebars">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbullsey&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=tex,css,handlebars,html">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbullsey&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
