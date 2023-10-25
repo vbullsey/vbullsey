@@ -11,8 +11,8 @@
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Godot**,
 * ❤️ `I love`: **ProgrammingPlay videogames**  ,
-* 💻 `Favorite lang`: **Python & TypeScript**
-  
+* 💻 `Favorite lang`: **Python & TypeScript**  
+
 }
 
 <br/>
